@@ -1,0 +1,14 @@
+= Server Response Time plugin
+
+Ruby on Rails plugin that allows you to measure server response times for requests and track it in additional gui
+
+Repository is on github: https://github.com/boro-selleo/server_response_time
+
+Install with:
+  rails plugin install git://github.com/boro-selleo/server_response_time.git
+
+== Usage
+
+    > http://localhost:3000/testing/server_response_time
+
+Copyright (c) 2011 Tomasz Borowski, released under the MIT license
